@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "price": 549,
+      "description": "An apple mobile which is nothing like apple",
+      "category": "smartphones",
+      "image": "https://i.pinimg.com/originals/84/ee/48/84ee48dbb18b783a991c2a22103b5649.jpg",
+      "rating": {
+        "rate": 4.69,
+        "count": 120
+      },
+      "qty":1
+    },
+    {
+      "id": 2,
+      "title": "iPhone X ",
+      "price": 899,
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ....",
+      "category": "smartphones",
+      "image": "https://photographylife.com/wp-content/uploads/2019/08/iPhone-X.jpg",
+      "rating": {
+        "rate": 4.44,
+        "count": 259
+      },
+      "qty":1
+    },
+    {
+      "id": 3,
+      "title": "Samsung Universe 9",
+      "price": 1249,
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe.",
+      "category": "smartphones",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s9-1.jpg",
+      "rating": {
+        "rate": 4.09,
+        "count": 500
+      },
+      "qty":1
+    },
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "price": 280,
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "category": "smartphones",
+      "image": "https://www.91-img.com/gallery_images_uploads/2/3/23f8dbab01415756503ad5e1bba030a77987b120.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 430
+      },
+      "qty":1
+    },
+    {
+      "id": 5,
+      "title": "Huawei P30",
+      "price": 499,
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "category": "smartphones",
+      "image": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-p30-1.jpg",
+      "rating": {
+        "rate": 4.09,
+        "count": 400
+      },
+      "qty":1
+    }
+    
+              ]
